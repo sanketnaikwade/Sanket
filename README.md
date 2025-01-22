@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Mahesh Baviskar, a computer science undergraduate at Pune Institute of Computer Technology, diving into new technologies! Sanket Naikwade</h1>
+<h1 align="center">Hi, Sanket Naikwade</h1>
 <h3 align="center">A Computer Science student at Pune Institute of Computer Technology.</h3>
 
 - 🔭 I’m currently working on **NexaCare**
